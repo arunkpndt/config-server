@@ -1,0 +1,6 @@
+{
+    "mongodb":{
+        "url":"mongodb+srv://arun:arun123@cluster0.cp5lfzs.mongodb.net/cmsdb?retryWrites=true&w=majority&appName=Cluster0"
+    },
+    "jwtSecret": "my-secret-key"
+}
